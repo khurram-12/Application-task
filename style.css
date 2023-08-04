@@ -46,11 +46,11 @@ body {
 }
 
 #sortButton.active {
-  background-color: red;
+  background-color: palevioletred;
 }
 
 .sidebar {
-  background-color:  dodgerblue;
+  background-color:  blue;
   color:black;
   padding: 10px;
   width: 500px;
