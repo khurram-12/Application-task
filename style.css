@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  background-color: #333;
+  background-color:black;
   color: #fff;
   justify-content: center;
   text-align: center;
@@ -38,19 +38,19 @@ body {
 #sortButton {
   border: none;
   padding: 8px 10px;
-  background-color: grey;
-  color: white;
+  background-color:gray;
+  color:black;
   cursor: pointer;
   border-radius: 50%;
   margin-left: 8px;
 }
 
 #sortButton.active {
-  background-color: orange;
+  background-color: red;
 }
 
 .sidebar {
-  background-color: darkslategray;
+  background-color:  dodgerblue;
   color:black;
   padding: 10px;
   width: 500px;
