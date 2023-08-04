@@ -46,7 +46,7 @@ body {
 }
 
 #sortButton.active {
-  background-color: red;
+  background-color: palevioletred;
 }
 
 .sidebar {
